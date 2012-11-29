@@ -1,6 +1,6 @@
 ---
 title       : Cognitive control & exogenous behavior
-subtitle    : The role of attention
+subtitle    : The role of attention (test)
 author      : Ryan M. Hope
 job         : CogWorks Lab
 biglogo     : rpi_logo.png
@@ -10,7 +10,6 @@ highlighter : highlight.js
 hitheme     : tomorrow
 widgets     : []
 mode        : selfcontained # {standalone, draft}
-github      : sdfsfsd
 ---
 
 ## Test Figure
