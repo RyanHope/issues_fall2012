@@ -1,5 +1,5 @@
 ---
-title       : Cognitive control of exogenous behavior
+title       : Cognitive control & exogenous behavior
 subtitle    : The role of attention
 author      : Ryan M. Hope
 job         : CogWorks Lab
@@ -10,8 +10,10 @@ highlighter : highlight.js
 hitheme     : tomorrow
 widgets     : []
 mode        : selfcontained # {standalone, draft}
+github      : sdfsfsd
 ---
 
+## Test Figure
 
-
+![plot of chunk test](figure/test.png) 
 
