@@ -1,0 +1,11 @@
+footer {
+  position: absolute;
+  bottom: 0px;
+  left: 60px;
+  width: 75%;
+}
+
+footer p {
+  font-size: 12px;
+  font-weight: normal;
+}
