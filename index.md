@@ -155,7 +155,7 @@ Cue: Red, Crescent, Medium, 41
 Proportions of fixations (for fixations that landed on objects)
 
 <!-- html table generated in R 2.15.2 by xtable 1.7-0 package -->
-<!-- Wed Dec  5 10:27:56 2012 -->
+<!-- Wed Dec  5 11:27:42 2012 -->
 <TABLE border=1>
 <TR> <TH>  </TH> <TH> Bl </TH> <TH> Gr </TH> <TH> Ye </TH> <TH> Or </TH> <TH> Pi </TH> <TH> V </TH> <TH> L </TH> <TH> M </TH> <TH> S </TH> <TH> Ci </TH> <TH> Sc </TH> <TH> Tr </TH> <TH> Sq </TH> <TH> Cr </TH>  </TR>
   <TR> <TD align="right"> Color </TD> <TD> 0.61 </TD> <TD> 0.56 </TD> <TD> 0.59 </TD> <TD> 0.71 </TD> <TD> 0.6 </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> </TR>
@@ -175,7 +175,7 @@ Proportions of fixations (for fixations that landed on objects)
 Proportions of fixations (for fixations that landed on objects)
 
 <!-- html table generated in R 2.15.2 by xtable 1.7-0 package -->
-<!-- Wed Dec  5 10:27:58 2012 -->
+<!-- Wed Dec  5 11:27:43 2012 -->
 <TABLE border=1>
 <TR> <TH>  </TH> <TH> Bl </TH> <TH> Gr </TH> <TH> Re </TH> <TH> Ye </TH> <TH> L </TH> <TH> M </TH> <TH> S </TH> <TH> Cc </TH> <TH> Cx </TH> <TH> Ov </TH> <TH> St </TH>  </TR>
   <TR> <TD align="right"> Color </TD> <TD> 0.51 </TD> <TD> 0.51 </TD> <TD> 0.52 </TD> <TD> 0.55 </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> </TR>
@@ -276,6 +276,7 @@ Error bars are 95% confidence intervals
 
 - Collect data from more subjects in Q1 2013
 - Analyze in more detail "backtracking"
+- Investigate curved saccades **
 - Test Williams' search time predictions
 - ACT-R model
 

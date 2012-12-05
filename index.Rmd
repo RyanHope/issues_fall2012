@@ -272,6 +272,7 @@ Error bars are 95% confidence intervals
 
 - Collect data from more subjects in Q1 2013
 - Analyze in more detail "backtracking"
+- Investigate curved saccades **
 - Test Williams' search time predictions
 - ACT-R model
 
