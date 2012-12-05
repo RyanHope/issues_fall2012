@@ -110,21 +110,11 @@ Purkinje images (reflections) are used in eye tracking technology to locate the 
 - average .8% missing data per trial
 - 5939 good trials
 
----
-
-## Classifying Raw Gaze Samples
-
----
-
-## The Williams' Search Task
-
-### Between 1966 and 1968 L.G. Williams published a series of seminal journal articles and tech reports on visual search.
+--- &vcenter
 
 ```{r include=FALSE}
 source("~/workspace/WilliamsTask/williams.R")
 ```
-
---- &vcenter
 
 ## Classifying Raw Gaze Sample
 
@@ -171,15 +161,15 @@ print(xtable(breakdown(read.table("~/williams-tabulated2-sup.dat",header=T))),ty
 
 --- &vcenter
 
-## Number of Fixations (ALL)
+## Fixation Proportions
 
 ```{r echo=FALSE, warning=FALSE, fig.width=13, fig.height=6.5}
-plot_nfix1(read.table("~/times.dat",header=T))
+plot_agg2(read.table("~/w67.combined2.dat",header=T))
 ```
 
 --- &vcenter
 
-## Number of Fixations (OBJECTS)
+## Number of Fixations
 
 ```{r echo=FALSE, warning=FALSE, fig.width=13, fig.height=6.5}
 plot_nfix2(read.table("~/times.dat",header=T))
@@ -187,32 +177,8 @@ plot_nfix2(read.table("~/times.dat",header=T))
 
 --- &vcenter
 
-## Number of Fixations (ALL Normalized?)
-
-```{r echo=FALSE, warning=FALSE, fig.width=13, fig.height=6.5}
-plot_avg_fix1(read.table("~/times.dat",header=T))
-```
-
---- &vcenter
-
-## Number of Fixations (OBJECTS Normalized?)
+## Number of Fixations (Normalized?)
 
 ```{r echo=FALSE, warning=FALSE, fig.width=13, fig.height=6.5}
 plot_avg_fix2(read.table("~/times.dat",header=T))
-```
-
---- &vcenter
-
-## Fixation Proportions (ALL)
-
-```{r echo=FALSE, warning=FALSE, fig.width=13, fig.height=6.5}
-plot_agg1(read.table("~/w67.combined2.dat",header=T))
-```
-
---- &vcenter
-
-## Fixation Proportions (OBJECTS)
-
-```{r echo=FALSE, warning=FALSE, fig.width=13, fig.height=6.5}
-plot_agg2(read.table("~/w67.combined2.dat",header=T))
 ```

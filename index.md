@@ -110,20 +110,10 @@ Purkinje images (reflections) are used in eye tracking technology to locate the 
 - average .8% missing data per trial
 - 5939 good trials
 
----
-
-## Classifying Raw Gaze Samples
-
----
-
-## The Williams' Search Task
-
-### Between 1966 and 1968 L.G. Williams published a series of seminal journal articles and tech reports on visual search.
-
-
-
-
 --- &vcenter
+
+
+
 
 ## Classifying Raw Gaze Sample
 
@@ -150,7 +140,7 @@ Cue: Red, Crescent, Medium, 41
 ## Breakdowns: 1967 Study
 
 <!-- html table generated in R 2.15.2 by xtable 1.7-0 package -->
-<!-- Tue Dec  4 20:41:54 2012 -->
+<!-- Tue Dec  4 20:56:40 2012 -->
 <TABLE border=1>
 <TR> <TH>  </TH> <TH> Bl </TH> <TH> Gr </TH> <TH> Ye </TH> <TH> Or </TH> <TH> Pi </TH> <TH> V </TH> <TH> L </TH> <TH> M </TH> <TH> S </TH> <TH> Ci </TH> <TH> Sc </TH> <TH> Tr </TH> <TH> Sq </TH> <TH> Cr </TH>  </TR>
   <TR> <TD align="right"> Color </TD> <TD> 0.61 </TD> <TD> 0.56 </TD> <TD> 0.59 </TD> <TD> 0.71 </TD> <TD> 0.6 </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> </TR>
@@ -168,7 +158,7 @@ Cue: Red, Crescent, Medium, 41
 ## Breakdowns: 2012 Study
 
 <!-- html table generated in R 2.15.2 by xtable 1.7-0 package -->
-<!-- Tue Dec  4 20:41:56 2012 -->
+<!-- Tue Dec  4 20:56:42 2012 -->
 <TABLE border=1>
 <TR> <TH>  </TH> <TH> Bl </TH> <TH> Gr </TH> <TH> Re </TH> <TH> Ye </TH> <TH> L </TH> <TH> M </TH> <TH> S </TH> <TH> Cc </TH> <TH> Cx </TH> <TH> Ov </TH> <TH> St </TH>  </TR>
   <TR> <TD align="right"> Color </TD> <TD> 0.51 </TD> <TD> 0.51 </TD> <TD> 0.52 </TD> <TD> 0.55 </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> <TD>  </TD> </TR>
@@ -183,42 +173,21 @@ Cue: Red, Crescent, Medium, 41
 
 --- &vcenter
 
-## Number of Fixations (ALL)
+## Fixation Proportions
 
 ![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
 
 
 --- &vcenter
 
-## Number of Fixations (OBJECTS)
+## Number of Fixations
 
 ![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7.png) 
 
 
 --- &vcenter
 
-## Number of Fixations (ALL Normalized?)
+## Number of Fixations (Normalized?)
 
 ![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8.png) 
-
-
---- &vcenter
-
-## Number of Fixations (OBJECTS Normalized?)
-
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9.png) 
-
-
---- &vcenter
-
-## Fixation Proportions (ALL)
-
-![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10.png) 
-
-
---- &vcenter
-
-## Fixation Proportions (OBJECTS)
-
-![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
 
